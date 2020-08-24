@@ -1,0 +1,17 @@
+{
+  "name": "bestb-capital-admin-bower",
+  "version": "1.0",
+  "authors": [
+    "haonv-bestb <haonv.bestb@gmail.com>"
+  ],
+  "description": "Bestb Capital Admin Bower",
+  "main": "/",
+  "keywords": [
+    "admin bower"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haonv-bestb/bestb-capital-admin-bower.git",
+  "ignore": [
+    "README.md"
+  ]
+}
